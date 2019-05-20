@@ -365,7 +365,7 @@ footer .copyright {
 .searchbar {
   margin-bottom: auto;
   margin-top: auto;
-  height: 60px;
+  height: 50px;
   background-color: #353b48;
   border-radius: 30px;
   padding: 10px;
@@ -378,13 +378,13 @@ footer .copyright {
   background: none;
   width: 0;
   caret-color: transparent;
-  line-height: 40px;
+  line-height: 30px;
   transition: width 0.4s linear;
 }
 
 .searchbar:hover > .search_input {
   padding: 0 10px;
-  width: 450px;
+  width: 400px;
   caret-color: #0085a1;
   transition: width 0.4s linear;
 }
@@ -395,8 +395,8 @@ footer .copyright {
 }
 
 .search_icon {
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   float: right;
   display: flex;
   justify-content: center;
